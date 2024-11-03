@@ -1,7 +1,7 @@
 organization=jaafarorganization
-projectKey=jaafarorganization_testsonar
+projectKey=JaafarOrganization_TestSonar
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.57306
-dashboardUrl=https://sonarcloud.io/dashboard?id=jaafarorganization_testsonar
-ceTaskId=AZLzmIOStvtUPs91h0lG
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZLzmIOStvtUPs91h0lG
+dashboardUrl=https://sonarcloud.io/dashboard?id=JaafarOrganization_TestSonar
+ceTaskId=AZLzpQZzdPcjLIvLGZsD
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZLzpQZzdPcjLIvLGZsD
