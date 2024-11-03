@@ -1,0 +1,7 @@
+ProjectManager#main([Ljava/lang/String;)V
+false
+d7e96651d4af3d97e0e00081b7e685d9
+ProjectManager#getProjectDescription()Ljava/lang/String;
+ProjectManager#performComplexCalculation(I)I
+==
+println java.io.PrintStream#println(Ljava/lang/String;)V

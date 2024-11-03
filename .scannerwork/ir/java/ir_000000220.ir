@@ -1,0 +1,14 @@
+
+\
+testGetProjectDescription=ma.sonar.main.ProjectManagerTest#testGetProjectDescription()V ¨Z."A sample project for demonstration purposes."&java.lang.Stringjava.lang.ObjectJthis ()"6 ma.sonar.main.ProjectManagerTestjava.lang.ObjectJthis ()"6 ma.sonar.main.ProjectManagerTestjava.lang.Object"ã\
+Z
+E (S"8
+#get-field# ProjectManager#get-field# ProjectManager*2	!Unknown! =
+;
+E (k"
+getProjectDescription*2	!Unknown! 86
+4
+ (l"
+assertEquals*2	!Unknown! 8
+
+ (*FC:/Users/JAAFAR/OneDrive/Desktop/TestSonar/src/ProjectManagerTest.java

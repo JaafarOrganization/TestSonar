@@ -1,0 +1,61 @@
+
+1
+main)ProjectManager#main([Ljava/lang/String;)VèI"Welcome to Project Manager!"&java.lang.Stringjava.lang.ObjectD20<intjava.lang.Objectjava.lang.Integerjava.lang.NumberC"Project Description: "&java.lang.Stringjava.lang.Object<	"Project Name: "&java.lang.Stringjava.lang.ObjectF"Duplicate Project Name: "&java.lang.Stringjava.lang.ObjectD10<intjava.lang.Objectjava.lang.Integerjava.lang.NumberC5<intjava.lang.Objectjava.lang.Integerjava.lang.Number<"Sample Project"&java.lang.Stringjava.lang.Object<args ()"(java.lang.String[]java.lang.Object"*&java.lang.Systemjava.lang.Object<args ()"(java.lang.String[]java.lang.Object"ıÈ
+Ê
+ (""
+#get-field# out#get-field# out*2∞java.io.PrintStreamjava.io.OutputStreamjava.lang.Appendablejava.io.Closeablejava.io.FilterOutputStreamjava.lang.Objectjava.lang.AutoCloseablejava.io.Flushable]
+[
+ (9"?
+println0java.io.PrintStream#println(Ljava/lang/String;)V (*2void8,
+*
+ (-projectName"
+#id##id#*È
+Ê
+ (""
+#get-field# out#get-field# out*2∞java.io.PrintStreamjava.io.OutputStreamjava.lang.Appendablejava.io.Closeablejava.io.FilterOutputStreamjava.lang.Objectjava.lang.AutoCloseablejava.io.Flushable*
+(
+ (9
+"
+	#binop +#	#binop +#*	]
+[
+ (:"?
+println0java.io.PrintStream#println(Ljava/lang/String;)V (*
+2void85
+3
+& (6duplicateProjectName"
+#id##id#*È
+Ê
+	 	(""
+#get-field# out#get-field# out*2∞java.io.PrintStreamjava.io.OutputStreamjava.lang.Appendablejava.io.Closeablejava.io.FilterOutputStreamjava.lang.Objectjava.lang.AutoCloseablejava.io.Flushable*
+(
+	 	(L"
+	#binop +#	#binop +#*]
+[
+	 	(M"?
+println0java.io.PrintStream#println(Ljava/lang/String;)V (*2void8"
+ 
+ (a"
+#id##id#*"
+ 
+ (b"
+#id##id#*/
+-
+ (sum"
+	#binop +#	#binop +#*µ
+≤
+' (CcomplexCalculationResult"I
+performComplexCalculation,ProjectManager#performComplexCalculation(I)I*2<intjava.lang.Objectjava.lang.Integerjava.lang.Numberû
+õ
+$ (;projectDescription"Q
+getProjectDescription8ProjectManager#getProjectDescription()Ljava/lang/String;2&java.lang.Stringjava.lang.ObjectÈ
+Ê
+ (""
+#get-field# out#get-field# out*2∞java.io.PrintStreamjava.io.OutputStreamjava.lang.Appendablejava.io.Closeablejava.io.FilterOutputStreamjava.lang.Objectjava.lang.AutoCloseablejava.io.Flushable*
+(
+ (G"
+	#binop +#	#binop +#*]
+[
+ (H"?
+println0java.io.PrintStream#println(Ljava/lang/String;)V (*2void8
+
+ (*BC:/Users/JAAFAR/OneDrive/Desktop/TestSonar/src/ProjectManager.java

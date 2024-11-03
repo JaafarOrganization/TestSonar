@@ -1,0 +1,5 @@
+com.google.common.base.Preconditions#checkPositionIndex(IILjava/lang/String;)I
+true
+a87f3a9b441b00354b60f08f6a000786
+java.lang.IndexOutOfBoundsException#<init>()V
+java.lang.IndexOutOfBoundsException#instance-init#
